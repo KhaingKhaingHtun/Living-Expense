@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.list-card-image{
+	height: 20rem;
+}
+.list-card{
+	width: 18rem;
+	height: 36rem;
+}
+
+.details-card-image{
+	height: 50rem;
+}
+
+.details-card{
+	width: 100%;
+	
+}
